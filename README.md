@@ -2,7 +2,11 @@
 
 - 📫 Contactez-moi sur **remi@drakona.fr**
 
+[Un texte](https://github.com/Drakolab-yt/Drakolab-yt/edit/main/README.md)
+
 [![Dreeckan](https://github-profile-trophy.vercel.app/?username=dreeckan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Et voilà !](https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif)
 
 ## Me retrouver
 
