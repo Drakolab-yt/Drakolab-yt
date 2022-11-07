@@ -6,7 +6,7 @@
 
 ## Me retrouver
 
-[![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=F00)](https://www.youtube.com/channel/UCrGGUUH2FgqqW3MbfTQbBxw/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=F00)](https://www.youtube.com/@drakolab)
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Drakolab-yt/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/jarjatremi/)
 
